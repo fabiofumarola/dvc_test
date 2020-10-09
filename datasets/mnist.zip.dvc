@@ -1,0 +1,3 @@
+outs:
+- md5: be67442c50ec6398df1e5d6ea81b4951
+  path: mnist.zip
